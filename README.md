@@ -1,2 +1,3 @@
 # next_js_sample_code
-Next js sample code files demo
+This repository includes the sample files of Next js code.
+
